@@ -5,9 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
-
-	public class Homework5 extends JFrame {
+public class Homework5 extends JFrame {
 		
     private JTextField numField1;
     private JTextField numField2;
